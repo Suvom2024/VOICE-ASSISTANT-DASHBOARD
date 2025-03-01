@@ -12,9 +12,7 @@
   <p>✨ A breathtaking dashboard for your WhatsApp AI Assistant ✨</p>
 </div>
 
-<p align="center">
-  <img src="https://via.placeholder.com/1200x600/3B82F6/FFFFFF?text=WhatsApp+Assistant+Dashboard" alt="Dashboard Preview" width="100%" />
-</p>
+
 
 ## ✨ Immerse Yourself in the Future of WhatsApp Management
 
@@ -181,6 +179,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <a href="https://github.com/yourusername/whatsapp-assistant-dashboard/issues">Request Feature</a>
 </div>
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=WhatsApp+Assistant+Dashboard" alt="Dashboard Footer" width="100%" />
-</p>
